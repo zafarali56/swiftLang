@@ -12,6 +12,6 @@ let UnChangable : Int = 30
 
 //immutable variable cannot be changed
 UnChangable = 50
-print(UnChangable)
+//print(UnChangable)
 
 
